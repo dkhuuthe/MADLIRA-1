@@ -48,10 +48,10 @@ Command: ./MADLIRA.sh SVM check -S <path to apk files>
 
 ### Dependencies:
 This tool uses the following packages:
-+ apktool_2.4.1 (https://ibotpeaches.github.io/Apktool/)
-+ ojalgo-41.0.0 (https://github.com/optimatika/ojAlgo)
-+ libsvm (http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
-+ antlr (https://www.antlr3.org/)
++ [apktool_2.4.1](https://ibotpeaches.github.io/Apktool/)
++ [ojalgo-41.0.0](https://github.com/optimatika/ojAlgo)
++ [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/)
++ [antlr](https://www.antlr3.org/)
 
 
 <!--
