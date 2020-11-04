@@ -1,15 +1,15 @@
 #!/bin/bash
 executable="launch.jar"
 
-if [ $# <= 1 ]
+if [ $# -lt 1 ]
 then
 	echo "Run Test"
-	echo "	Syntax: $0 TEST"
+	echo "	Syntax: ${0} TEST"
 	echo "TFIDF Malicious behavior extraction"
-	echo "	Syntax: $0 TFIDF"
+	echo "	Syntax: ${0} TFIDF"
 	echo ""
 	echo "SVM malicious behavior detection"
-	echo "	Syntax: $0 SVM"
+	echo "	Syntax: ${0} SVM"
 	exit 1
 fi
 
