@@ -1,0 +1,10 @@
+Ljava/
+Ljavax/
+Landroid/
+Lcom/android/
+Lorg/apache/
+Lorg/json/
+Lorg/w3c/
+Lorg/xml/
+Ldalvik/
+Lcom/google/android/
