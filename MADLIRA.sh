@@ -36,3 +36,4 @@ fi
 cmd="java -jar ${executable} $@"
 #echo $cmd 
 eval $cmd
+read -p "Press [Enter] key to exit..."
