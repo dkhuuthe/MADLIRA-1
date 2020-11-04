@@ -36,6 +36,7 @@ Command: ./MADLIRA.sh SVM check -S <path to apk files>
 ```
 ./MADLIRA.sh TFIDF train -B BenDataL -M MalDataL
 ```
+
 ## Train SVM model
 + Collect benign applications  in a folder named benignApkFolder and malicious applications in a folder named maliciousApkFolder.
 + Prepare training data by using the commands:
