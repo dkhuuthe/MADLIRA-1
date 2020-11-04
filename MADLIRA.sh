@@ -28,6 +28,8 @@ then
 	eval $cmdTest
 
 	echo "Successful!"
+	read -p "Press [Enter] key to exit..."
+
 	exit 1
 fi
 
