@@ -25,7 +25,7 @@ Command: ./MADLIRA.sh SVM check -S <path to apk files>
 
 ## Malicious behavior extraction
 + Collect benign applications and malicious applications and output them in folders named benginAPKFolder and maliciousApkFolder, respectively.
-+ Prepare training data and pack them in two files named benignPack and maliciousPack by using the command:
++ Prepare training data using the command:
 ```
 ./MADLIRA.sh TFIDF packAPK -PB <benignApkFolder> -PM <maliciousApkFolder>
 ```
